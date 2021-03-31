@@ -1,0 +1,31 @@
+.login-page{
+  width: 50%;
+  margin: 100px auto;
+}
+.dashboard-bg{
+  background: blue;
+  padding: 10px 40px;
+}
+.d-flex{
+  display: flex;
+}
+.font-white{
+  color: #fff;
+  font-size: 14px;
+}
+.btn-position{
+  position: absolute;
+  right: 0px;
+  padding: 0px 20px;
+}
+.table-sw{
+  margin: 10px 20px;
+}
+.select-sw{
+  padding: 5px 20px;
+  border-radius: 5px;
+  background: none;
+}
+.m-25{
+  margin:25px !important;
+}
